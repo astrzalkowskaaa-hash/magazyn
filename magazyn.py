@@ -3,7 +3,7 @@ import streamlit as st
 # --- 1. Konfiguracja i Stan Aplikacji (Streamlit Session State) ---
 
 # Tytuł aplikacji
-st.title("🛒 Prosta Aplikacja Magazynowa (Streamlit)")
+st.title("🛒 Prosta Aplikacja Magazynowa")
 st.caption("Aplikacja do zarządzania nazwami produktów bez ilości i cen.")
 
 # Inicjalizacja "magazynu" w Session State. 
